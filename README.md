@@ -1,4 +1,4 @@
-# Zigbee_Coordinator_V3
+# Zigbee Coordinator V3
  Zigbee Coordinator
 
 1. Install Z-Stack 3.0.2 and apply patch.
